@@ -1,0 +1,22 @@
+
+body {
+	background-image: linear-gradient(black, grey, #e1f4f3, #706c61);
+}
+
+.icons {
+	margin-top: 20px; 
+	margin-left: 250px;
+}
+
+.heading-contact {
+	color: white;
+}
+
+
+.text-contact {
+	color: white;
+}
+
+.content {
+	margin-left: 50px;
+}
